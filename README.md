@@ -1,4 +1,6 @@
 # diveriu
+https://www.npmjs.com/package/diveriu
+
 
 > Patika.dev tarafından verilen task 
 
