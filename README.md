@@ -30,3 +30,8 @@ class Example extends Component {
 ## License
 
 MIT © [vertig0o](https://github.com/vertig0o)
+
+
+![Ekran görüntüsü 2022-09-11 142256](https://user-images.githubusercontent.com/66363263/189524837-32a72fd1-de8d-43dc-9da7-9e2c864b561b.png)
+
+
