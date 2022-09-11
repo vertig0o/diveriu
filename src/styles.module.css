@@ -7,3 +7,45 @@
   font-size: 2em;
   text-align: center;
 }
+
+
+
+
+.primary {
+  background-color: white; 
+  color: black; 
+  border: 2px solid grey;
+  font-size: 2em;
+}
+
+.primary:hover {
+  background-color: grey;
+  color: white;
+}
+
+.dotted {
+  background-color: white; 
+  color: black; 
+  border-style: dotted;
+  font-size: 2em;
+}
+
+.dotted:hover {
+  background-color: grey;
+  color: white;
+  border-style: dotted;
+}
+
+.text {
+  background-color: white; 
+  color: black; 
+  border-style: none;
+  font-size: 2em;
+}
+
+.text:hover {
+  background-color: grey;
+  color: white;
+  border-style: none;
+
+}
